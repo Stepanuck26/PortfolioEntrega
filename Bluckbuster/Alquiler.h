@@ -7,8 +7,9 @@ int id;
 Fecha fecha;
 int id_cliente;
 int id_vendedor;
-string forma_pago;
+char forma_pago;
 bool envio;
+string direccion_envio
 Fecha fecha_devolucion;
 float cargo_retraso;
 int id_pelicula;
